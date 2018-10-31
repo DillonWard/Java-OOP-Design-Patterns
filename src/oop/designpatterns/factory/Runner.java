@@ -1,4 +1,4 @@
-package oop.designpatterns.factorydesign;
+package oop.designpatterns.factory;
 
 import java.util.Scanner;
 
