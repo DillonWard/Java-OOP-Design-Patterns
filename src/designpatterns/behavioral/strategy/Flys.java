@@ -1,4 +1,4 @@
-package designpatterns.creational.strategy;
+package designpatterns.behavioral.strategy;
 
 public interface Flys {
 

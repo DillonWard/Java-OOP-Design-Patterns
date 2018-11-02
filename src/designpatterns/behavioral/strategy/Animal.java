@@ -1,4 +1,4 @@
-package designpatterns.creational.strategy;
+package designpatterns.behavioral.strategy;
 
 // create a super class for each object since each object can be abstracted into an animal
 // e.g. a Dog IS A Animal, a Dog HAS A name/height etc.
